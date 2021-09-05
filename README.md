@@ -1,7 +1,5 @@
 # Implicit Ensemble Training
 
-This repository contains the environments for our ICML workshop submission [Implicit Ensemble Training for Efficient and RobustMultiagent Reinforcement Learning]
-
 ## Environment setup
 Use `source env_setup.sh` to set up the environment
 
